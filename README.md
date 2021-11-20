@@ -52,7 +52,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
   
   #### වැඩි විස්තර සඳහා...
  <p align="center">
-<a href="http://wa.me/94712289566"><img title="Whatsapp" src="https://img.shields.io/badge/Watsapp-Contact-ft/Akina?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="http://wa.me"><img title="Whatsapp" src="https://img.shields.io/badge/Watsapp-Contact-ft/Akina?color=blue&style=for-the-badge&logo=whatsapp"></a>
  
  <p align="center">
 <a href="https://t.me/Anujasupulsara"><img title="Telegram" src="https://img.shields.io/badge/Telegram-Contact-ft/Akina?color=blue&style=for-the-badge&logo=Telegram"></a>
