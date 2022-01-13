@@ -36,13 +36,13 @@ This project is protected by `GNU General Public Licence v3.0` license.
    
    
  <div align="center">
-  <img src="https://telegra.ph/file/e89e47c0257589bbcb460.jpg" width="250" height="250">
+  <img src="https://telegra.ph/file/22c2e36ca312797b74ec5.jpg" width="250" height="250">
  
  
   ✫ MR USHAN ♔
   
   
- #### සියල්ල අත් නොහැර , සියල්ල අත්හැරෙන බව දැනගෙන ජීවත් වෙන්න 🙂✊
+ #### PROGRAMMER 🙂✊
 
   </a>
              
