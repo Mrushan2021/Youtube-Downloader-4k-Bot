@@ -5,7 +5,7 @@
   </a>
              
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Anuja+Supulsara&font=Fira%20Code&center=true&width=380&height=50"
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+✫+MR+USHAN+♔&font=Fira%20Code&center=true&width=380&height=50"
 </p>
 
   
@@ -28,7 +28,7 @@
 * [Spechide](https://telegram.dog/SpEcHIDe) for his [AnyDlBot](https://github.com/SpEcHiDe/AnyDLBot)
 * [HasibulKabir](https://telegram.dog/HasibulKabir)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/anuja2003/Youtube-Downloader-Bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://https://github.com/Mrushan2021/Youtube-Downloader-Bot/tree/master)
 
 ## Thank you all for using 
 This project is protected by `GNU General Public Licence v3.0` license.
